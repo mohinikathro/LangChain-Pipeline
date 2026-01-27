@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+python-dotenv
+ipykernel
+langchain-community
+langchain-text-splitters
+faiss-cpu
+pypdf
+jq
+langchain_text_splitters
+sentence-transformers

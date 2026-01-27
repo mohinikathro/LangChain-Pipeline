@@ -1,0 +1,17 @@
+{
+  "source": "User Reviews",
+  "reviews": [
+    {
+      "review_id": 101,
+      "user": "Alice",
+      "comment": "The product quality is excellent",
+      "rating": 5
+    },
+    {
+      "review_id": 102,
+      "user": "Bob",
+      "comment": "Delivery was slow but the product is good",
+      "rating": 4
+    }
+  ]
+}
