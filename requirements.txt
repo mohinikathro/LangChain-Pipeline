@@ -10,3 +10,4 @@ jq
 langchain_text_splitters
 sentence-transformers
 beautifulsoup4
+chromadb
